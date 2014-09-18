@@ -1,0 +1,3 @@
+Content\images\Crosshair.xnb
+Content\images\Stick_figure.xnb
+Content\images\rocky_background.xnb

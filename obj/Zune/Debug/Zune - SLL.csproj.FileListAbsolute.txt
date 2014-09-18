@@ -1,0 +1,9 @@
+X:\src\POC\POC\bin\Zune\Debug\Content\images\Crosshair.xnb
+X:\src\POC\POC\bin\Zune\Debug\Content\images\Stick_figure.xnb
+X:\src\POC\POC\bin\Zune\Debug\Content\images\rocky_background.xnb
+X:\src\POC\POC\bin\Zune\Debug\POC.exe
+X:\src\POC\POC\bin\Zune\Debug\POC.pdb
+X:\src\POC\POC\obj\Zune\Debug\ResolveAssemblyReference.cache
+X:\src\POC\POC\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+X:\src\POC\POC\obj\Zune\Debug\POC.exe
+X:\src\POC\POC\obj\Zune\Debug\POC.pdb

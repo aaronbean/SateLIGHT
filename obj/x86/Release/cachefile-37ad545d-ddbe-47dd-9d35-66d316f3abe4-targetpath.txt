@@ -1,0 +1,6 @@
+Content\Crosshair.xnb
+Content\heightmap.xnb
+Content\rocky_background.xnb
+Content\Stick_figure.xnb
+Content\smoke.xnb
+Content\default_text.xnb

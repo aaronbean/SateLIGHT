@@ -1,0 +1,12 @@
+X:\src\POC\POC\bin\x86\Release\POC.exe
+X:\src\POC\POC\bin\x86\Release\POC.pdb
+X:\src\POC\POC\obj\x86\Release\ResolveAssemblyReference.cache
+X:\src\POC\POC\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+X:\src\POC\POC\obj\x86\Release\POC.exe
+X:\src\POC\POC\obj\x86\Release\POC.pdb
+X:\src\POC\POC\bin\x86\Release\Content\Crosshair.xnb
+X:\src\POC\POC\bin\x86\Release\Content\heightmap.xnb
+X:\src\POC\POC\bin\x86\Release\Content\rocky_background.xnb
+X:\src\POC\POC\bin\x86\Release\Content\Stick_figure.xnb
+X:\src\POC\POC\bin\x86\Release\Content\smoke.xnb
+X:\src\POC\POC\bin\x86\Release\Content\default_text.xnb
